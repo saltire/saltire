@@ -1,0 +1,10 @@
+{
+  "name": "saltire",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "js-yaml": "^3.14.0"
+  }
+}
