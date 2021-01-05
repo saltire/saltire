@@ -47,7 +47,7 @@
 - [5eCharsheet](https://github.com/saltire/5eCharsheet) – A character sheet app for D&D 5th edition, in React Native.
 - [microscope](https://github.com/saltire/microscope) – A web-based version of the Microscope RPG.
 - [react-node-boilerplate](https://github.com/saltire/react-node-boilerplate) – A starting template for React/NodeJS server/client apps.
-- [react-bare-boilerplate](https://github.com/saltire/react-bare-boilerplate) – A starting template for React web apps.
+- [react-boilerplate](https://github.com/saltire/react-boilerplate) – A starting template for React web apps.
 - [babel-webpack-boilerplate](https://github.com/saltire/babel-webpack-boilerplate) – A starting template for non-React web apps.
 - [osteomancer](https://github.com/saltire/osteomancer) – Software and firmware for an IoT-enabled bone-casting divination device, made for the Stupid Shit Nobody Needs and Terrible Ideas Hackathon, Toronto Edition.
 - [android-emoji-pidgin](https://github.com/saltire/android-emoji-pidgin) – A smiley theme for Pidgin/Adium, using emoji from Google/Android's Noto fonts.
