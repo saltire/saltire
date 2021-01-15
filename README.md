@@ -1,5 +1,28 @@
 👾 So many experiments, so little time.
 
+## Apps and tools
+
+- [rmapbash](https://github.com/saltire/rmapbash) – A Minecraft map renderer written in Rust. Can do orthographic or isometric views. My first and only Rust project!
+- [cmapbash](https://github.com/saltire/cmapbash) – Earlier version of my Minecraft map renderer written in C. My first and only C project!
+- [jumbotron](https://github.com/saltire/jumbotron) – A Minecraft plugin that sends an area of coloured pixels from the game to a physical LED matrix via Arduino. My first and only Java project!
+- [terramap](https://github.com/saltire/terramap) – A map renderer for Terraria, written in Python.
+- [starseed](https://github.com/saltire/starseed) – A map renderer (the only one I'm aware of) for the game Starseed Pilgrim. Python, with a web interface.
+- [color-replacer](https://github.com/saltire/color-replacer) – A shader for Unity to selectively replace colours based on hue and saturation.
+- [neopixels](https://github.com/saltire/neopixels) – A web-based controller for a NeoPixels LED strip via Arduino.
+- [5eCharsheet](https://github.com/saltire/5eCharsheet) – A character sheet app for D&D 5th edition, in React Native.
+- [microscope](https://github.com/saltire/microscope) – A web-based version of the Microscope RPG.
+- [react-boilerplate](https://github.com/saltire/react-boilerplate) – A starting template for React web apps.
+- [react-node-boilerplate](https://github.com/saltire/react-node-boilerplate) – A starting template for React/NodeJS server/client apps.
+- [react-node-typescript-boilerplate](https://github.com/saltire/react-node-typescript-boilerplate) – Same as above, but using TypeScript.
+- [babel-webpack-boilerplate](https://github.com/saltire/babel-webpack-boilerplate) – A starting template for non-React web apps.
+- [osteomancer](https://github.com/saltire/osteomancer) – Software and firmware for an IoT-enabled bone-casting divination device, made for the Stupid Shit Nobody Needs and Terrible Ideas Hackathon, Toronto Edition.
+- [android-emoji-pidgin](https://github.com/saltire/android-emoji-pidgin) – A smiley theme for Pidgin/Adium, using emoji from Google/Android's Noto fonts.
+- [colours-react](https://github.com/saltire/colours-react) – A web-based RGB / HSL colour picker. My first project in React.
+- [shirecalendar](https://github.com/saltire/shirecalendar) – A Python library for parsing, manipulating, and displaying dates reckoned in the Shire calendar.
+- [hardlivin](https://github.com/saltire/hardlivin) – A website and various tools I created to help plan Hard Livin', a physical art installation / interactive board game.
+- [borgil](https://github.com/saltire/borgil) – An extensible IRC chatbot written in NodeJS.
+- [election-contribs](https://github.com/saltire/election-contribs) – A scraper and viewer for political contribution data from the Elections Canada website.
+
 ## Games
 
 - [tojam2020](https://github.com/saltire/tojam2020) – Have a Knife Day! A first-person fighter made in Unity for TOJam 2020.
@@ -34,25 +57,3 @@
 - [bar-portrait](https://github.com/saltire/bar-portrait) – A quick web-based art project that turns images into a bunch of black bars.
 - [kaleidoscope](https://github.com/saltire/kaleidoscope) – A web-based kaleidoscope you can play with in real time.
 - [rogueworld](https://github.com/saltire/rogueworld) – A cities-and-roads map generator.
-
-## Apps and tools
-
-- [rmapbash](https://github.com/saltire/rmapbash) – A Minecraft map renderer written in Rust. Can do orthographic or isometric views. My first and only Rust project!
-- [cmapbash](https://github.com/saltire/cmapbash) – Earlier version of my Minecraft map renderer written in C. My first and only C project!
-- [jumbotron](https://github.com/saltire/jumbotron) – A Minecraft plugin that sends an area of coloured pixels from the game to a physical LED matrix via Arduino. My first and only Java project!
-- [terramap](https://github.com/saltire/terramap) – A map renderer for Terraria, written in Python.
-- [starseed](https://github.com/saltire/starseed) – A map renderer (the only one I'm aware of) for the game Starseed Pilgrim. Python, with a web interface.
-- [color-replacer](https://github.com/saltire/color-replacer) – A shader for Unity to selectively replace colours based on hue and saturation.
-- [neopixels](https://github.com/saltire/neopixels) – A web-based controller for a NeoPixels LED strip via Arduino.
-- [5eCharsheet](https://github.com/saltire/5eCharsheet) – A character sheet app for D&D 5th edition, in React Native.
-- [microscope](https://github.com/saltire/microscope) – A web-based version of the Microscope RPG.
-- [react-node-boilerplate](https://github.com/saltire/react-node-boilerplate) – A starting template for React/NodeJS server/client apps.
-- [react-boilerplate](https://github.com/saltire/react-boilerplate) – A starting template for React web apps.
-- [babel-webpack-boilerplate](https://github.com/saltire/babel-webpack-boilerplate) – A starting template for non-React web apps.
-- [osteomancer](https://github.com/saltire/osteomancer) – Software and firmware for an IoT-enabled bone-casting divination device, made for the Stupid Shit Nobody Needs and Terrible Ideas Hackathon, Toronto Edition.
-- [android-emoji-pidgin](https://github.com/saltire/android-emoji-pidgin) – A smiley theme for Pidgin/Adium, using emoji from Google/Android's Noto fonts.
-- [colours-react](https://github.com/saltire/colours-react) – A web-based RGB / HSL colour picker. My first project in React.
-- [shirecalendar](https://github.com/saltire/shirecalendar) – A Python library for parsing, manipulating, and displaying dates reckoned in the Shire calendar.
-- [hardlivin](https://github.com/saltire/hardlivin) – A website and various tools I created to help plan Hard Livin', a physical art installation / interactive board game.
-- [borgil](https://github.com/saltire/borgil) – An extensible IRC chatbot written in NodeJS.
-- [election-contribs](https://github.com/saltire/election-contribs) – A scraper and viewer for political contribution data from the Elections Canada website.
