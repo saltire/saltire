@@ -25,6 +25,8 @@
 
 ## Games
 
+- [cocomud](https://github.com/saltire/cocomud) – CocoMUD, a graphical multiplayer text adventure in the form of a Discord bot, for TOJam 2021.
+  - [cocomud-map](https://github.com/saltire/cocomud-map) – A quick canvas animation mapping all player movement through the CocoMUD game world.
 - [tojam2020](https://github.com/saltire/tojam2020) – Have a Knife Day! A first-person fighter made in Unity for TOJam 2020.
 - [army-of-weirdos](https://github.com/saltire/army-of-weirdos) – A deck-based game for two players, with a wacky cast of characters. Made in Unity for Global Game Jam 2020, based on a bunch of cards I made out of cut-up cereal boxes when I was 11.
 - [mechtoplasm](https://github.com/saltire/mechtoplasm) – A tactical vaporwave robot battle game, made for Global Game Jam 2019.
