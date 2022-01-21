@@ -25,6 +25,8 @@
 
 ## Games
 
+You can download/play some of these on [itch.io](https://saltire.itch.io)!
+
 - [cocomud](https://github.com/saltire/cocomud) – CocoMUD, a graphical multiplayer text adventure in the form of a Discord bot, for TOJam 2021.
   - [cocomud-map](https://github.com/saltire/cocomud-map) – A quick canvas animation mapping all player movement through the CocoMUD game world.
 - [have-a-knife-day](https://github.com/saltire/have-a-knife-day) – Have a Knife Day! A first-person fighter made in Unity for TOJam 2020.
