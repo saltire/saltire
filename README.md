@@ -12,7 +12,7 @@
 - [5eCharsheet](https://github.com/saltire/5eCharsheet) – A character sheet app for D&D 5th edition, in React Native.
 - [microscope](https://github.com/saltire/microscope) – A web-based version of the Microscope RPG.
 - [react-boilerplate](https://github.com/saltire/react-boilerplate) – A starting template for React client-side apps.
-- [react-typescript-boilerplate](https://github.com/saltire/react-boilerplate) – A starting template for React client-side apps with TypeScript.
+- [react-typescript-boilerplate](https://github.com/saltire/react-typescript-boilerplate) – A starting template for React client-side apps with TypeScript.
 - [typescript-webpack-boilerplate](https://github.com/saltire/typescript-webpack-boilerplate) – A starting template for non-React client-side apps, with TypeScript.
 - [react-node-boilerplate](https://github.com/saltire/react-node-boilerplate) – A starting template for React/NodeJS server/client apps.
 - [react-node-typescript-boilerplate](https://github.com/saltire/react-node-typescript-boilerplate) – Same as above, but with TypeScript.
